@@ -1,0 +1,15 @@
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\bin\Debug\net6.0\HRM.Infrastructure.deps.json
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\bin\Debug\net6.0\HRM.Infrastructure.dll
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\bin\Debug\net6.0\HRM.Infrastructure.pdb
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\bin\Debug\net6.0\HRM.ApplicationCore.dll
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\bin\Debug\net6.0\HRM.ApplicationCore.pdb
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.csproj.AssemblyReference.cache
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.AssemblyInfoInputs.cache
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.AssemblyInfo.cs
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.csproj.CoreCompileInputs.cache
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.csproj.CopyComplete
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.dll
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\refint\HRM.Infrastructure.dll
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.pdb
+F:\JOB\WA\HumenResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\ref\HRM.Infrastructure.dll

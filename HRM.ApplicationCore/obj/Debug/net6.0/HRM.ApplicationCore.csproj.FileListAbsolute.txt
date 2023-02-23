@@ -1,0 +1,12 @@
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.deps.json
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.dll
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.pdb
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.csproj.AssemblyReference.cache
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.AssemblyInfoInputs.cache
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.AssemblyInfo.cs
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.csproj.CoreCompileInputs.cache
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.dll
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\refint\HRM.ApplicationCore.dll
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.pdb
+F:\JOB\WA\HumenResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\ref\HRM.ApplicationCore.dll
